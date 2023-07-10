@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Festus</h1>
 <h3 align="center">A Full-Stack Web Developer and CyberSecurity Specialist</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=f-e-s-t-u-s&label=Profile%20views&color=0e75b6&style=flat" alt="f-e-s-t-u-s" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=f-e-s-t-u-s" alt="f-e-s-t-u-s" /></a> </p>
 
