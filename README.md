@@ -18,6 +18,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=f-e-s-t-u-s&" alt="f-e-s-t-u-s" /></p>
 
+
 <a href="https://open.spotify.com/user/31ropy3urzaun7gteduol3ezmgzq">
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=31ropy3urzaun7gteduol3ezmgzq&cover_image=true&theme=default&show_offline=true&background_color=3a21ba&interchange=false" alt="spotify-github-profile" />
 </a>
