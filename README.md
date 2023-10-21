@@ -18,8 +18,7 @@
 
 <h3 align="center">Let's Connect</h3>
 
-[![My Holopin Badges](https://holopin.me/festus)](https://holopin.me/festus)](https://holopin.io/@festus)
-
+[![My Holopin badges](https://holopin.me/festus)](https://holopin.io/@festus)
 
 <p align="center">Let's build amazing things together! 🚀</p>
 
