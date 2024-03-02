@@ -7,6 +7,10 @@
 
 **Discord:** [f_e_s_t_u_s](https://discord.com/users/1035852466366971964)
 
+**Mail** [email me](mailto:festusgitahik@gmail.com)
+
+
+
 <p align="center">
   <a href="https://github.com/f-e-s-t-u-s">
     <img height=200 margin=20 align="center" src="https://github-readme-stats-sand-ten-88.vercel.app/api?username=f-e-s-t-u-s&show_icons=true&theme=radical" />
