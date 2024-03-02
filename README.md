@@ -3,6 +3,9 @@
 
 <p align="center">Welcome to my GitHub profile! I'm passionate about web dev and cybersecurity.</p>
 
+## How to Reach Me 📬
+
+**Discord:** [f_e_s_t_u_s](https://discord.com/users/1035852466366971964)
 
 <p align="center">
   <a href="https://github.com/f-e-s-t-u-s">
